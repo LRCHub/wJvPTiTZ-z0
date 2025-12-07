@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "夕立",
+  "base_artist": "雪国",
+  "createdAt": "2025-12-07T04:04:14.515280Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夕立",
+      "artist": "Nobuo Uematsu",
+      "has_synced": false,
+      "path": "select/01_夕立_Nobuo_Uematsu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夕立 (Inst)",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/02_夕立_(Inst)_n-buna.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夕立",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/03_夕立_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夕立",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/04_夕立_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yudachi [夕立]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/05_Yudachi_[夕立]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夕立、君と隠れ処",
+      "artist": "幽閉サテライト (Arranged : Iceon)",
+      "has_synced": false,
+      "path": "select/06_夕立、君と隠れ処_幽閉サテライト_(Arranged___Iceon).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夕立、君と隠れ処",
+      "artist": "幽閉サテライト",
+      "has_synced": false,
+      "path": "select/07_夕立、君と隠れ処_幽閉サテライト.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夕立、君と隠れ処",
+      "artist": "幽閉サテライト (Arranged: Iceon)",
+      "has_synced": false,
+      "path": "select/08_夕立、君と隠れ処_幽閉サテライト_(Arranged__Iceon).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夕立、君と隠れ処",
+      "artist": "幽閉サテライト (Arranged: Iceon) feat. senya",
+      "has_synced": false,
+      "path": "select/09_夕立、君と隠れ処_幽閉サテライト_(Arranged__Iceon)_feat._senya.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夕立、君と隠れ処",
+      "artist": "幽閉サテライト (Arranged:Iceon) feat. senya",
+      "has_synced": false,
+      "path": "select/10_夕立、君と隠れ処_幽閉サテライト_(Arranged_Iceon)_feat._senya.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕立",
+      "artist": "雪国",
+      "has_synced": false,
+      "path": "select/pl_01_夕立_雪国.txt"
+    }
+  ]
+}
